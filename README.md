@@ -1,4 +1,4 @@
 # VastikaGroupProject
-# Team
-# Suraj , Bijay, Deepti ,Pratap
+Team
+Suraj , Bijay, Deepti ,Pratap
 
