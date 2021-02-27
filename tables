@@ -1,0 +1,18 @@
+#Tables needed for database
+
+
+# Role Table( ...)
+
+# Student 
+
+# Employee/Admin
+
+# Documents ( id, documents1, documents2, documents3..)
+
+# Colleges( id, basic info, rank..)
+
+# Transactions ( id, paymentType, Amount, studentId, description..)
+
+# Courses ( id, collegeId, courseType, Tuition Fee, Scholarship...)
+
+# Application( id,studentId, courseId, transactionId, description...)
