@@ -5,6 +5,8 @@
 
 # Consultancy Employe Requirements:
 * should able to update the current colleges information( add, delete, update)
+* should able to update the course available
+
 * should able to see the student application status
 * should able to build report for a student. ( applied colleges, charges due/paid, documents needed)
 * should able to build report for the consultancy operations( student accepted/rejected, commisions generated)
