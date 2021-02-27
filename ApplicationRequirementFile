@@ -1,0 +1,19 @@
+# Applications Requirements:
+* application should use RestApi
+* Application login should be secure
+
+
+# Consultancy Employe Requirements:
+* should able to update the current colleges information( add, delete, update)
+* should able to see the student application status
+* should able to build report for a student. ( applied colleges, charges due/paid, documents needed)
+* should able to build report for the consultancy operations( student accepted/rejected, commisions generated)
+
+
+
+# Student Requirements:
+* should able to see services from Consultancy
+* should able to see best colleges based on Country, tuition fee, ranking, scholarships, course type
+* should able to apply one or more colleges 
+* should able to see the status of applied application. 
+* should able to pay securely (advanced)
